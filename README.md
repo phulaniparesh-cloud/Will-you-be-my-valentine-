@@ -147,7 +147,7 @@ button{
 <body>
 
 <div class="container" id="start">
-  <h1>Paresh 🌸</h1>
+  <h1>Riya 🌸</h1>
   <p>
     Some feelings feel warmer,<br>
     some moments feel softer…<br><br>
@@ -275,5 +275,4 @@ function createPetal(){
 </script>
 
 </body>
-</html># Will-you-be-my-valentine-
-Html code
+</html>
